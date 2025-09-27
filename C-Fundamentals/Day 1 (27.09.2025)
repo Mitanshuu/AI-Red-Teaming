@@ -1,0 +1,12 @@
+#This is not the real day one. I was learning previously for a week, I had learned some basics about variables, data types and print statements in C langauge. I forgot to document that so this was the recap in total. Now from today, the daily documenting will be done. 
+
+DAY 1 - Arrays and Functions
+Date:- 27.09.2025
+
+**What I learned**
+- The array is a data type used to store the same types of variables together in a list type of format. The array basically makes it easy to store the same type of data eg. Marks of students, employee id, price, etc. The values given inside the array are known as elements. And the position at which these elements are stored is known as index. The index starts from 0 and goes upto n-1, where n --> no. of elements in the array.
+
+- The function is a type of container (acc. to me), that is used for doing the same tasks but for different inputs. The functions are basically used for defining some code that can be just simply called in the program multiple times without directly writing them multiple times. The int main() is also a type of function which gets called when the program is executed. One example of function can be for printing out the information about any user like their name & id. 
+
+
+**End of Day 1**
