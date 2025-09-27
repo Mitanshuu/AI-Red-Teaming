@@ -1,0 +1,1 @@
+This is the starting of the learning about cybersecurity. Starting from C language, I am trying to understand the basics of programming and how the system works. This is the start of the learning about C fundamentals that will help me in future.
