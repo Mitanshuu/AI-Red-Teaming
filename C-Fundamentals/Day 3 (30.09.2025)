@@ -1,0 +1,11 @@
+#Sorry, I didn't show up yesterday, my pc was doing backup and my whole bandwidth was being used by it so I was unable to just study.
+
+DAY 3 - Switch case, Struct & While loop
+Date:- 30.09.2025
+
+**What I learned**
+- Switch case statements are basically like if else statements but mostly used for checking input for a single variable.
+- Struct is a tempelate or user defined data type in which we can store multiple variables that can be used as a tempelate for multiple objects. for eg. creating a struct for smartphones, it can hold variables like company name, series, model, price, RAM, storage, etc. Now using this we can create multiple smartphones with different names and different specifications.
+- While loop is a loop which works on a condition, if the condition is true the loop will be executing unless the condition becomes false, if not then the loop will not stop.
+
+**End of Day 3**
